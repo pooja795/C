@@ -66,6 +66,7 @@ C
 	- SelectionSort
 	- ShakerSort
 	- HeapSort
+	- PigeonHoleSort
 
 ## Hashing
 	- sdbm
